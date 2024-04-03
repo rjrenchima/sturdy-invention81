@@ -1,0 +1,36 @@
+
+h1
+{
+	color: rgb(84, 167, 2); 
+	font-size: 40px;
+}
+
+.body_background {
+ 
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#my_canvas{
+
+	border-width:10px;
+	background-color:white;
+	border-style: ridge;
+}
+
+span{
+	font-size: 30px;
+}
+
+h3{
+	color:blueviolet;
+}
+
+#change_colour{
+	color:rgb(0, 140, 255);
+}
+
+#clean{
+	color:brown;
+}
